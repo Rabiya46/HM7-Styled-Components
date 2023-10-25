@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HM7-Styled-Components/static/css/main.0a532bb0.css",
+    "main.js": "/HM7-Styled-Components/static/js/main.c84ccc3b.js",
+    "static/media/backgroundImage.png": "/HM7-Styled-Components/static/media/backgroundImage.b1d9afd791b46fe4b085.png",
+    "index.html": "/HM7-Styled-Components/index.html",
+    "main.0a532bb0.css.map": "/HM7-Styled-Components/static/css/main.0a532bb0.css.map",
+    "main.c84ccc3b.js.map": "/HM7-Styled-Components/static/js/main.c84ccc3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a532bb0.css",
+    "static/js/main.c84ccc3b.js"
+  ]
+}
